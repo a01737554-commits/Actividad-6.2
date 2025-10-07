@@ -13,7 +13,7 @@ def dividir(a, b):
         return "Error: No se puede dividir entre cero"
     return a / b
 
-print("=== Calculadora Sencilla ===")
+print("Calculadora Sencilla")
 print("Operaciones disponibles:")
 print("1. Sumar")
 print("2. Restar")
